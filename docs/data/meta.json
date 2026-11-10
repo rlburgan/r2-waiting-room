@@ -2,10 +2,10 @@
   "mode": "live",
   "fixture": null,
   "first_poll_at": "2026-10-30T23:04:12Z",
-  "last_poll_at": "2026-11-09T04:58:43Z",
+  "last_poll_at": "2026-11-10T00:26:28Z",
   "ok": true,
   "auth_expired": false,
-  "duration_s": 15.21,
+  "duration_s": 15.7,
   "endpoints": {
     "vehicleOrders": "ok",
     "order": "ok",
@@ -34,7 +34,7 @@
       "field": "vin / fulfillmentSummaryStatus"
     }
   ],
-  "session_created_at": "2026-10-30T22:53:54Z",
+  "session_created_at": "2026-11-10T00:26:28Z",
   "poll_interval_min": 240,
   "heartbeat": true,
   "full_vin": false,
