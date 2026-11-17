@@ -2,10 +2,10 @@
   "mode": "live",
   "fixture": null,
   "first_poll_at": "2026-10-30T23:04:12Z",
-  "last_poll_at": "2026-11-16T18:00:06Z",
+  "last_poll_at": "2026-11-17T02:48:27Z",
   "ok": true,
   "auth_expired": false,
-  "duration_s": 15.88,
+  "duration_s": 15.43,
   "endpoints": {
     "vehicleOrders": "ok",
     "order": "ok",
