@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "path": "order.vehicle.make",
+    "old": null,
+    "new": "RIVIAN",
+    "kind": "added",
+    "seen_at": "2026-11-19T22:55:35Z"
+  },
+  {
+    "path": "order.vehicle.model",
+    "old": null,
+    "new": "R2",
+    "kind": "added",
+    "seen_at": "2026-11-19T22:55:35Z"
+  },
+  {
+    "path": "order.vehicle.modelYear",
+    "old": null,
+    "new": 2027,
+    "kind": "added",
+    "seen_at": "2026-11-19T22:55:35Z"
+  },
+  {
+    "path": "order.vehicle.vehicleId",
+    "old": null,
+    "new": "set",
+    "kind": "added",
+    "seen_at": "2026-11-19T22:55:35Z"
+  },
+  {
+    "path": "order.vehicle.vin",
+    "old": null,
+    "new": "7PD2EAAB4VN023•••",
+    "kind": "added",
+    "seen_at": "2026-11-19T22:55:35Z"
+  },
+  {
+    "path": "order.vehicleId",
+    "old": null,
+    "new": "set",
+    "kind": "changed",
+    "seen_at": "2026-11-19T22:55:35Z"
+  }
+]
