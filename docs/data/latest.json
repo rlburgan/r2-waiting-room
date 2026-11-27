@@ -17,11 +17,11 @@
   "isConsumerFlowComplete": false,
   "steps": [],
   "delivery": {
-    "status": "INIT",
+    "status": "APPT_SCHEDULED",
     "carrier": "THIRD_PARTY",
-    "appointmentStart": null,
-    "appointmentEnd": null,
-    "timeZone": null
+    "appointmentStart": "2026-12-16T14:00:00",
+    "appointmentEnd": "2026-12-16T14:15:00",
+    "timeZone": "America/Los_Angeles"
   },
   "vehicle": {
     "model": "R2",
